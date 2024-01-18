@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculadora Dinâmica</title>
-</head>
-<body>
-
-    <script>
         // Queremos um número inicial
         // Queremos um sinal (tipo de operação)
         // Queremos um número final
@@ -42,8 +32,3 @@
         }
 
         alert('O resultado do cálculo é igual a '+ resultadoFinal);
-        
-    </script>
-    
-</body>
-</html>
